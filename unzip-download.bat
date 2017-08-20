@@ -1,1 +1,0 @@
-./data/7z.exe x CattleAndCrops.tar.gz
