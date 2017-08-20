@@ -1,0 +1,1 @@
+del .\CattleAndCrops.tar.gz /s /q

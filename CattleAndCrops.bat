@@ -1,0 +1,1 @@
+start ./CattleAndCrops/Game/Win64/CattleAndCrops.exe
